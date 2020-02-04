@@ -1,0 +1,11 @@
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.exe
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.deps.json
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.runtimeconfig.json
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.runtimeconfig.dev.json
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.dll
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\bin\Debug\netcoreapp3.1\DiceRolling.pdb
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.csprojAssemblyReference.cache
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.AssemblyInfoInputs.cache
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.AssemblyInfo.cs
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.dll
+C:\Users\DShelton\OneDrive - KNEX\Documents\GCDevBuild\DiceRolling\DiceRolling\DiceRolling\obj\Debug\netcoreapp3.1\DiceRolling.pdb
