@@ -8,15 +8,16 @@ namespace DiceRolling
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Grand Circus Casino!");
-            
+
             do
             {
                 LetsGetRollin();
-            
+
             } while (Continue());
             Console.Clear();
             Console.WriteLine("\n\nThank you for playing!");
             Thread.Sleep(2000);
+            Console.Clear();
         }
 
         private static void LetsGetRollin()
@@ -27,6 +28,7 @@ namespace DiceRolling
             Console.Clear();
 
             int sides = GetInt("How many sides should each dice have? >>");
+            
             DiceRoller(ref sides, out rand1, out rand2);
 
             int firstDice = rand1;
@@ -39,7 +41,15 @@ namespace DiceRolling
         static int GetInt(string prompt)
         {
             Console.Write(prompt);
-            return int.Parse(Console.ReadLine());
+            bool yayNum = int.TryParse(Console.ReadLine(), out int num);
+            while (!yayNum)
+            {
+                Console.Write("Enter a valid positive number: >>");
+                yayNum = int.TryParse(Console.ReadLine(), out num);
+                
+            }
+            return num;
+
         }
         static void DiceRoller(ref int sides, out int rand1, out int rand2)
         {
